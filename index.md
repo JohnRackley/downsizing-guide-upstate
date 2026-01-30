@@ -2,7 +2,6 @@
 title: A Calm, Step-by-Step Downsizing Guide
 ---
 
-# A Calm, Step-by-Step Downsizing Guide  
 ## One-Level Living Without Pressure
 
 ![Single-level home in a peaceful setting](images/cover-home.png)
@@ -151,4 +150,5 @@ Licensed South Carolina real estate professional (SC LLR #98521).
 Mortgage services, if discussed, are offered separately as a licensed Mortgage Loan Originator (NMLS #161352).  
 Equal Housing Opportunity. Content provided for educational purposes only and not a commitment to lend or guarantee of results.
 </sub>
+
 

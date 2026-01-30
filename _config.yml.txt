@@ -1,0 +1,3 @@
+theme: minima
+title: "A Calm, Step-by-Step Downsizing Guide"
+description: "One-Level Living Without Pressure"

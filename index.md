@@ -4,7 +4,9 @@ title: A Calm, Step-by-Step Downsizing Guide
 
 ## One-Level Living Without Pressure
 
-![Single-level home in a peaceful setting](images/cover-home.png)
+<p align="center">
+  <img src="images/cover-home.png" alt="Single-level home in a peaceful setting" style="margin: 8px 0; max-width: 100%;" />
+</p>
 
 Downsizing later in life isn’t about rushing or giving something up.  
 It’s about making a thoughtful decision that protects your **comfort, finances, and peace of mind**—now and in the years ahead.
@@ -51,7 +53,9 @@ Selling first can feel risky without a plan. A safe strategy may include:
 
 You are never selling first and “hoping it works out.”
 
-![Quiet neighborhood ideal for one-level living](images/calm-neighborhood.png)
+<p align="center">
+  <img src="images/calm-neighborhood.png" alt="Quiet neighborhood ideal for one-level living" style="margin: 6px 0; max-width: 100%;" />
+</p>
 
 ---
 
@@ -67,7 +71,9 @@ Before your home goes on the market:
 
 This step is about **learning**, not choosing.
 
-![Bright, uncluttered single-level living space](images/one-level-interior.png)
+<p align="center">
+  <img src="images/one-level-interior.png" alt="Bright, uncluttered single-level living space" style="margin: 6px 0; max-width: 100%;" />
+</p>
 
 ---
 
@@ -124,7 +130,9 @@ As everything comes together:
 
 A good guide doesn’t disappear at the finish line.
 
-![Keys resting on a table in a calm home](images/keys-table.png)
+<p align="center">
+  <img src="images/keys-table.png" alt="Keys resting on a table in a calm home" style="margin: 6px 0; max-width: 100%;" />
+</p>
 
 ---
 
@@ -150,5 +158,6 @@ Licensed South Carolina real estate professional (SC LLR #98521).
 Mortgage services, if discussed, are offered separately as a licensed Mortgage Loan Originator (NMLS #161352).  
 Equal Housing Opportunity. Content provided for educational purposes only and not a commitment to lend or guarantee of results.
 </sub>
+
 
 
